@@ -1,1 +1,1 @@
-# copilot--mcp
+# copilot-mcp
