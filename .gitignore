@@ -1,6 +1,8 @@
 
 # dont include vscode settings
 .vscode/
+target/
+data/
 
 # Compiled class file
 *.class
